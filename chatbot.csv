@@ -1,17 +1,17 @@
-1,Hello my friend my name is robot what is your name
-2,welcome to Toilab I am a quick learner and today I would just like to guess your age for that I need to take your picture If you are ready wait till the yellow light comes on and say yes please take my photo
+1,Hello my friend my name is toy bot what is your name
+2,nice to meet you and welcome to Toilab I am a quick learner and today I would just like to guess your age for that I need to take your picture If you are ready wait a few seconds and say please take my photo 
 3,OK if you are ready show me a big smile
 4,Great I think I have a guess
 5,Ill divide by two and add 10 to me initial guess this is the algorithm that appears to get me in the least amount of trouble
 6,are you ready
-7,I think that you are ___ years old. that’s a very impressive age. Well done! 
-8,
-9,
-10,
-11,
-12,
-13,
-14,
+7,i think you are a male and that you might be older than 40 years old
+8,I think you are a male and that you are younger than 40 years old
+9,I think you are a female and of course you look like you must be 18 years old
+10,But I must say you are very very good looking
+11,I have done a bit more number crunching and it appears you are a particularly beautiful human specimen 
+12,it has been great to meet you stay in touch
+13,nice to meet you good bye
+14,was I right or was i left
 15,
 16,
 17,
@@ -96,9 +96,9 @@
 96,
 97,
 98,
-99,
-100,Face found 
-101,starting face tracking
+99,starting object tracking
+100,i think i can see a face starting face tracking
+101,
 102,
 103,
 104,
