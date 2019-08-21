@@ -1,5 +1,5 @@
-1,Hello my friend my name is toy bot what is your name
-2,nice to meet you and welcome to Israel Dev Conference I am a quick learner and today I would just like to guess your age for that I need to take your picture If you are ready wait a few seconds and say please take my photo 
+1,Hello my name is toy bot 
+2,nice to meet you and welcome to toy lab tel aviv
 3,OK if you are ready show me a big smile
 4,Great I think I have a guess
 5,Ill divide by two and add 10 to my initial guess this is the algorithm that appears to get me in the least amount of trouble
@@ -14,29 +14,29 @@
 14,was I right or was i left
 15,how can I help you today
 16,that is an unknown command shutting down
-17,commencing personel identification procedure
+17,commencing identification procedure
 18,authorisation complete. Welcome to toy lab Gal Moore.
 19,I can not recognise you for some reason. Sorry.
 20,If you are wearing sunglasses or a hat this is a good time to take them off.
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-31,
-32,
-33,
-34,
-35,
-36,
-37,
-38,
-39,
+21,well it looks like i have company. hello to you and welcome to toy lab.
+22,would you like to play a game or are you an existing toy lab member wishing to access the premises
+23,initialized video stream and face motor server
+24,found face nearby 
+25,running object tracking till I see a close face nearby for 5 seconds
+26,I am a quick learner and today I would just like to guess your age for that I need to take your picture If you are ready wait a few seconds and say please take my photo 
+27,let me take a better look at you. starting face detection system
+28,there you are
+29,what would you like to do next
+30,play a game
+31,we can go through the identification procedure
+32,or you can also tell me to do nothing
+33,sure that is no problem 
+34,maybe some other time
+35,I will go back to just looking around
+36,Great if you want we can play this game where I try to guess your age and gender
+37,I know it can get me in a lot of trouble but I still like to play it ha ha ha
+38,If you are ready look straight into my eyes 
+39,I got no input so I am shutting down
 40,
 41,
 42,
@@ -96,8 +96,8 @@
 96,
 97,
 98,
-99,starting object tracking
-100,i think i can see a face starting face tracking
+99,
+100,
 101,
 102,
 103,
